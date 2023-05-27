@@ -1,0 +1,49 @@
+.navbar {
+  background-color: #263a29;
+}
+
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #f2e3db;
+}
+.footer {
+  background-color: #263a29;
+  margin-bottom: 0rem;
+}
+
+#footerp {
+  margin-bottom: 0rem;
+}
+
+#berita {
+  background-color: #f2e3db;
+}
+#about {
+  background-color: #263a29;
+  padding-top: 5rem;
+}
+
+#aboutevent {
+  background-color: #f2e3db;
+}
+
+#pesan {
+  background-color: #f2e3db;
+}
+
+.zoom {
+  transition: transform 0.2s; /* Animation */
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+#event {
+  background-color: #263a29;
+}
+
+#card-body {
+  background-color: #263a29;
+}
