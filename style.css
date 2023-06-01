@@ -1,13 +1,13 @@
 .navbar {
-  background-color: #263a29;
+  background-color: #11009e;
 }
 
 .jumbotron {
   padding-top: 8rem;
-  background-color: #f2e3db;
+  background-color: white;
 }
 .footer {
-  background-color: #263a29;
+  background-color: #fff;
   margin-bottom: 0rem;
 }
 
@@ -16,10 +16,17 @@
 }
 
 #berita {
-  background-color: #f2e3db;
+  background-color: white;
+}
+#h2aboutindex {
+  color: #fff;
+}
+
+#pabout {
+  color: #fff;
 }
 #about {
-  background-color: #263a29;
+  background-color: #11009e;
   padding-top: 5rem;
 }
 
@@ -28,7 +35,7 @@
 }
 
 #pesan {
-  background-color: #f2e3db;
+  background-color: white;
 }
 
 .zoom {
@@ -41,9 +48,41 @@
 }
 
 #event {
-  background-color: #263a29;
+  background-color: #11009e;
 }
 
 #card-body {
   background-color: #263a29;
+}
+
+.btnkirim:hover {
+  background-color: #11009e;
+  color: #fff;
+}
+
+h1 {
+  color: #11009e;
+}
+
+h2 {
+  color: #11009e;
+}
+h3 {
+  color: #11009e;
+}
+
+h5 {
+  color: #11009e;
+}
+p {
+  color: #11009e;
+}
+
+pre {
+  color: #11009e;
+}
+
+mark {
+  background-color: #11009e;
+  color: white;
 }
